@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>Home</h1>
+        <a href="login?logout">Log out</a>
     </body>
 </html>
